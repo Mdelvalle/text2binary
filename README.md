@@ -1,4 +1,4 @@
 Text2binary
 ===========
 
-** TODO: Add description **
+Transform words into ones and zeros
